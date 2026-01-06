@@ -12,12 +12,15 @@ Link ux : https://www.figma.com/proto/llW2dAT51iHO76QwsVb8h7/Untitled?node-id=0-
 
 Link Video UX : https://youtu.be/WD-olrInz60 
 
-<img width="930" height="536" alt="Image" src="https://github.com/user-attachments/assets/427041e3-37b3-475e-b7f4-d8d9396843fc" />
-
-<img width="927" height="529" alt="Image" src="https://github.com/user-attachments/assets/523256e2-9648-46a1-9960-4a6cc96b1a9e" />
-
-<img width="788" height="423" alt="Image" src="https://github.com/user-attachments/assets/04df4913-77aa-48b9-b18e-e38c30f6893f" />
 
 <img width="767" height="414" alt="Image" src="https://github.com/user-attachments/assets/0e817d27-bfa5-4048-9ed3-da9aceff40c3" />
 
-<img width="1047" height="529" alt="Image" src="https://github.com/user-attachments/assets/2598834d-e87d-4c3c-bef3-48177c4da28b" />
+<img width="4881" height="2825" alt="Image" src="https://github.com/user-attachments/assets/2dd5840e-70bc-47a4-80fc-d14ce82867a7" />
+
+<img width="4883" height="2636" alt="Image" src="https://github.com/user-attachments/assets/70ee0e6d-2307-41b2-90b7-7749dae80b35" />
+
+<img width="4883" height="2636" alt="Image" src="https://github.com/user-attachments/assets/cb22db3a-de47-43eb-bf13-85bed6a07ca2" />
+
+<img width="4881" height="2825" alt="Image" src="https://github.com/user-attachments/assets/f3cc55f0-9157-4bfa-9f8d-586affde8359" />
+
+<img width="6307" height="2636" alt="Image" src="https://github.com/user-attachments/assets/715bc30b-d583-4c2c-92ba-0c49ca927923" />
